@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Breactapp1%7D/static/css/main.addc1e4a.css",
+    "main.js": "/%7Breactapp1%7D/static/js/main.36737ce5.js",
+    "static/js/787.32d91862.chunk.js": "/%7Breactapp1%7D/static/js/787.32d91862.chunk.js",
+    "index.html": "/%7Breactapp1%7D/index.html",
+    "main.addc1e4a.css.map": "/%7Breactapp1%7D/static/css/main.addc1e4a.css.map",
+    "main.36737ce5.js.map": "/%7Breactapp1%7D/static/js/main.36737ce5.js.map",
+    "787.32d91862.chunk.js.map": "/%7Breactapp1%7D/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addc1e4a.css",
+    "static/js/main.36737ce5.js"
+  ]
+}
